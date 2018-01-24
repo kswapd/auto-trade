@@ -1,5 +1,5 @@
 # auto-trade
-auto trade system for cryptocurrrency market
+an echange monitor supporing yobit, poloniex, kraken and binance.
 # RUN
 ```
 pip install -r requirements.txt
